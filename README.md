@@ -1,6 +1,8 @@
 # SQLforDataScienceProject
 1/24/2018 https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNu…
 https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNuY~ZJP… 1/4
+
+
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 This is a 2-part assignment. In the first part, you are asked a series of questions that
 will help you profile and understand the data just like a data scientist would. For this
