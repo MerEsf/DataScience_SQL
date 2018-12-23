@@ -15,5 +15,5 @@ SQLite
 ### Learning outcomes:
 - Posing more reviews does not necessarily correlate with more fans
 - There is not a strong correlation between having a high number of fans and being listed as "useful" or "funny
-- There is a correlation between the location of the business and their rating
+- There is a strong correlation between the location of the business and their rating
 - There is not a strong correlation between the number of likes and stars in the reviews
