@@ -4,12 +4,12 @@
 ### First part:
 A series of questions are answered to profile and understand. 
 ### Second part: 
-Inferences and analysis of the data for a particular research question are . 
+Inferences and analysis of the data for a particular research question 
+
 For both parts of this assignment, use this the dataset is provided online. Both dataset and codes are on Jupyter Notebook (Because the course was on Jupyter Notebook the HTML file is uploaded on the respiratory). 
 
+![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png?expiry=1545696000000&hmac=vcB_9oSPRTq6lonUaySzcPH84Bp1q9mdHRo36GhpzpY)
 
-In this case, you may want to save as a PDF to ensure your formatting remains intact
-for you reviewer.
 Part 1: Yelp Dataset Profiling and Understanding
 1. Profile the data by finding the total number of records for each of the tables below:
 i. Attribute table =
@@ -36,10 +36,6 @@ ix. User =
 x. Friend =
 xi. Elite_years =
 3. Are there any columns with null values in the Users table? Indicate "yes," or "no."
-Answer:
-1/24/2018 https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNu…
-https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNuY~ZJP… 2/4
-SQL code used to arrive at answer:
 4. Find the minimum, maximum, and average value for the following fields:
 i. Table: Review, Column: Stars
 min: max: avg:
@@ -62,18 +58,10 @@ ii. Beachwood
 SQL code used to arrive at answer:
 Copy and Paste the Resulting Table Below (2 columns - star rating and count):
 7. Find the top 3 users based on their total number of reviews:
-1/24/2018 https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNu…
-https://d3c33hcgiwev3.cloudfront.net/_daf7b462ae8620d9690e739c8b21a834_YelpDataCourseraPR.txt?Expires=1516924800&Signature=YNuY~ZJP… 3/4
-SQL code used to arrive at answer:
-Copy and Paste the Result Below:
 8. Does posing more reviews correlate with more fans?
 Please explain your findings and interpretation of the results:
 9. Are there more reviews with the word "love" or with the word "hate" in them?
-Answer:
-SQL code used to arrive at answer:
 10. Find the top 10 users with the most fans:
-SQL code used to arrive at answer:
-Copy and Paste the Result Below:
 11. Is there a strong correlation between having a high number of fans and being listed
 as "useful" or "funny?"
 SQL code used to arrive at answer:
