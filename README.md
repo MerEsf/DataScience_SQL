@@ -8,7 +8,7 @@ Inferences and analysis of the data for a particular research question.
 
 For both parts of this assignment, use this the "worksheet" is provided online. Dataset (Yelp Dataset Worksheet) and codes are on Jupyter Notebook (the codes and answers are uploaded in three formats (text, pdf, docx) on the respiratory). 
 
-![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png?expiry=1545696000000&hmac=vcB_9oSPRTq6lonUaySzcPH84Bp1q9mdHRo36GhpzpY)
+![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png?expiry=1546819200000&hmac=PItRwcffJQ-zWDI9RDHRZ1rWFia-ZyBF5IjIx8v6G7I)
 
 ### Language:
 SQLite
