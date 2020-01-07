@@ -1,4 +1,4 @@
-## 1) Data Wrangling, Analysis and AB Testing in SQL
+## 1) Data Wrangling, Analysis and AB Testing, an e-Commerce Website in SQL
 ### Description:
 
 Running an experiment at an item-level, which means all users who visit will see the same page, but the layout of different item pages may differ. 
