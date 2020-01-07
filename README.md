@@ -1,4 +1,4 @@
-## 1) Data Data Wrangling, Analysis and AB Testing in SQL
+## 1) Data Wrangling, Analysis and AB Testing in SQL
 ### Description:
 
 Running an experiment at an item-level, which means all users who visit will see the same page, but the layout of different item pages may differ. 
@@ -34,8 +34,6 @@ For both parts of this assignment, use this the "worksheet" is provided online. 
 
 ![alt text](https://github.com/MerEsf/SQLforDataScienceProject/blob/master/Yelp.png)
 
-### Language:
-SQLite
 ### Learning outcomes:
 - Posing more reviews does not necessarily correlate with more fans
 - There is not a strong correlation between having a high number of fans and being listed as "useful" or "funny
