@@ -4,7 +4,13 @@
 
 Predicting whether a fire call in San Francisco is potentially life-threatening
 
+### Data:
+
+San Francisco's Fire Department Calls for Service (~1.7GB)
+https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3/data
+
 ### Steps:
+
 a) Preprocess data for use in a machine learning model
 
 b) Create a sklearn logistic regression model for classification (one-hot encoding, logistic regression)
