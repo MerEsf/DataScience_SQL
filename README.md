@@ -1,4 +1,16 @@
-## 1) Data Wrangling, Analysis and AB Testing, an e-Commerce Website in SQL
+## 1) Logistic Regression Classification, Distributed Computing with Spark SQL and Python (Databricks)
+
+### Goal:
+
+Predicting whether a fire call in San Francisco is potentially life-threatening
+
+#### Steps:
+a) Preprocess data for use in a machine learning model
+b) Create a sklearn logistic regression model for classification (one-hot encoding, logistic regression)
+c) Pedict the 'Call_Type_Group' for incidents in a SQL table
+
+
+## 2) Data Wrangling, Analysis and AB Testing, an e-Commerce Website in SQL
 ### Description:
 
 Running an experiment at an item-level, which means all users who visit will see the same page, but the layout of different item pages may differ. 
