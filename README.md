@@ -1,4 +1,4 @@
-## 1) Logistic Regression Classification, Distributed Computing with Spark SQL and Python (Databricks)
+## 1) Binary Classification, Distributed Computing with Spark SQL and Python (Databricks)
 
 ### Goal:
 
