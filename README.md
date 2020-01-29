@@ -6,7 +6,9 @@ Predicting whether a fire call in San Francisco is potentially life-threatening
 
 #### Steps:
 a) Preprocess data for use in a machine learning model
+
 b) Create a sklearn logistic regression model for classification (one-hot encoding, logistic regression)
+
 c) Pedict the 'Call_Type_Group' for incidents in a SQL table
 
 
